@@ -1,6 +1,7 @@
 streamlit
 langchain>=0.1.14
 langchain-google-genai
+langchain-community
 google-api-python-client
 faiss-cpu
 PyPDF2
