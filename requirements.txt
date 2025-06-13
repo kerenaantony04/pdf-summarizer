@@ -1,0 +1,7 @@
+streamlit
+langchain>=0.1.14
+langchain-google-genai
+google-api-python-client
+faiss-cpu
+PyPDF2
+tiktoken
